@@ -155,7 +155,7 @@ This leaves the following columns headings:
 [71] "Frequency_Body_Accelerometer_Magnitude_StandardDeviation"     
 [72] "Frequency_Body_Accelerometer_Magnitude_MeanFrequency"         
 [73] "Frequency_Body_Accelerometer_Jerk_Magnitude_Mean"             
-[74] "Frequency_Body_Accelerometer_Jerk_Magnitude_StandardDeviation"
+[74] "Frequency_Body_Accelerometer_Jerk_Magnitude_StandardDeviation"  
 [75] "Frequency_Body_Accelerometer_Jerk_Magnitude_MeanFrequency"    
 [76] "Frequency_Body_Gyroscope_Magnitude_Mean"                      
 [77] "Frequency_Body_Gyroscope_Magnitude_StandardDeviation"         
